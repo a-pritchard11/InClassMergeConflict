@@ -1,2 +1,1 @@
-# InClassMergeConflict
-We will be using this repo to cause merge conflicts
+In this class I will be merging at the same time :)
