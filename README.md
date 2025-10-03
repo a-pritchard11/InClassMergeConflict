@@ -1,3 +1,5 @@
+In this class I will be merging at the same time :)
+I like femboys
 # InClassMergeConflict
 We will be using this repo to cause merge conflicts
 WOWOWOW
